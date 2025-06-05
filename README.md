@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @ryannnsevidal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey there, I’m Ryan 👋
 
-<!---
-ryannnsevidal/ryannnsevidal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my corner of GitHub! I’m currently studying **Computer Engineering** at UC San Diego (expected June 2025), and I’m all about building cool, meaningful tech that bridges hardware and software.
+
+## 🛠 What I’ve Worked On
+
+### 🚁 Medical Payload Delivery Drone  
+I built a drone that can carry a 1.5 lb medical payload — imagine speeding up non-emergency rescue delivery times by 25%. It’s got remote control up to a mile, a custom PCB I designed in KiCad, and it reads orientation/rotation using an MPU6000. I worked on the firmware in **Arduino C** and used **Python** for testing and data handling.
+
+### 🧠 Kernel Dev (OS stuff)  
+Low-level systems. Built out a kernel with threading, system calls, and even demand-paged virtual memory in **C/C++**, and learned a ton about scheduling, synchronization, and memory efficiency.
+
+### 📸 3D Reconstruction + ML  
+Used photometric stereo and the horn integration method to build depth maps of faces. Also derived epipolar geometry using the 8-point algorithm for image matching. Trained a CNN on MNIST using **PyTorch** and hit 99%+ accuracy. Optimizers, dropout, and transfer learning too.
+
+## 🧰 Tech Stack
+
+**Languages:** Java, JavaScript, C, C++, Python, Rust, Verilog  
+**Frameworks/Libraries:** React, PyTorch, OpenCV, sklearn  
+**Domains:** VLSI, PCB Design, Laser Cutting, Embedded Systems, ML
+
+
+### 📫 Let’s Connect
+
+- **Email:** rsevidal117@gmail.com  
+- **LinkedIn:** [linkedin.com/in/ryan-sevidal](https://www.linkedin.com/in/ryan-sevidal)
+
+---
+
+Thanks for stopping by — feel free to check out my projects and shoot me a message if you wanna collab or chat tech!
