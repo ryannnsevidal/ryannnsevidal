@@ -1,6 +1,9 @@
-# Hey there, I’m Ryan 👋
+# Hey there, I’m Ryan
 
-Welcome to my corner of GitHub! I’m currently studying **Computer Engineering** at UC San Diego (expected June 2025), and I’m all about building cool, meaningful tech that bridges hardware and software.
+I’m currently studying **Computer Engineering** at UC San Diego. I build cool, meaningful tech that bridges hardware and software.
+
+# Website 
+https://ryansevidal.com/
 
 ## 🛠 What I’ve Worked On
 
