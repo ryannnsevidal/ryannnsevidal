@@ -30,4 +30,4 @@ Used photometric stereo and the horn integration method to build depth maps of f
 
 ---
 
-Thanks for stopping by — feel free to check out my projects and shoot me a message if you wanna collab or chat tech!
+Thanks for stopping by. Check out my projects and message me if you wanna collab.
