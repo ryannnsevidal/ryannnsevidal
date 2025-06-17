@@ -20,6 +20,7 @@ Used photometric stereo and the horn integration method to build depth maps of f
 
 **Languages:** Java, JavaScript, C, C++, Python, Rust, Verilog  
 **Frameworks/Libraries:** React, PyTorch, OpenCV, sklearn, NumPy, AnimateDiff, Kubernetes, Docker
+
 **Domains:** VLSI design, PCB Design, Laser Cutting, Embedded Systems, ML 
 
 
